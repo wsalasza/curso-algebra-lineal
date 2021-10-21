@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE, comment = NA)
 
 **Propiedades de los cuerpos.** En un cuerpo $\mathbb{K}$ se verifican las siguientes propiedades:
 
-1. Propiedad de **simplificación** para la suma: $a+b=a+c\Rightarrow\ b=c$
+1. Propiedad de simplificación para la suma: $a+b=a+c\Rightarrow\ b=c$
 2. Los neutros (0 y 1) son únicos
 3. Cada elemento tienen un único opuesto
 4. Cada elemento diferente de 0 tiene un único inverso
